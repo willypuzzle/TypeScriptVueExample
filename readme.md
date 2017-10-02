@@ -9,8 +9,8 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
  
  To try this example download the package and do: 
  
- ######1) composer install 
- ######2) php artisan key:generate
+ 1) composer install 
+ 2) php artisan key:generate
 
 
 
